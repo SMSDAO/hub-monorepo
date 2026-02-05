@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@farcaster/hub-nodejs": "^0.13.0",
-    "viem": "^2.17.4"
+    "viem": "^2.44.2"
   },
   "devDependencies": {
     "hardhat": "^2.19.2",
